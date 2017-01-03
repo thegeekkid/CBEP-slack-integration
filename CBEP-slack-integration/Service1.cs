@@ -14,10 +14,10 @@ namespace CBEP_slack_integration
     {
 
         //Set your vars here.
-        string hookurl = "";
+        string hookurl = @"";
 
-        public string server = "";
-        public string apitoken = "";
+        public string server = @"";
+        public string apitoken = @"";
 
 
         //Vars below do not need to be changed.
